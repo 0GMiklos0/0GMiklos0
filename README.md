@@ -1,8 +1,10 @@
 ## Hi there 👋
 
 My name is Gacsályi Miklós, and i am a junior software developer.\
-I can program in languages, such as Java, Python or C++.\
-I like to work with AI, and would like to know more about it.
+I have recieved my Bsc degree of Computer Science.\
+I can program in a lot of languages, such as Java, Python or C++, but I can also quickly learn them.\
+I am interested in all of the computer science's fields, but I've been focusing on creating websites as my side project.\
+
 
 <p align="left">
 </p>
